@@ -36,7 +36,7 @@ Grundmann, M. (2020). A Most General and Facile Recipe for the Calculation of He
 
 Grundmann, M., & Lorenz, M. (2021). Azimuthal Anisotropy of Rhombohedral (Corundum Phase) Heterostructures. Physica Status Solidi (b), 258(7), 2100104. https://doi.org/10.1002/pssb.202100104
 
-Kneiß, M., Splith, D., Von Wenckstern, H., Lorenz, M., Schultz, T., Koch, N., & Grundmann, M. (2021). Strain states and relaxation for $$\alpha$$-(Al$$_x$$Ga$$_{1-x}$$)$$_2$$O$$_3$$ thin films on prismatic planes of $$\alpha$$-Al$$_2$$O$$_3$$ in the full composition range: Fundamental difference of a- and m-epitaxial planes in the manifestation of shear strain and lattice tilt. Journal of Materials Research, 36(23), 4816–4831. https://doi.org/10.1557/s43578-021-00375-3
+Kneiß, M., Splith, D., Von Wenckstern, H., Lorenz, M., Schultz, T., Koch, N., & Grundmann, M. (2021). Strain states and relaxation for alpha-Ga2O3 thin films on prismatic planes of alpha-Al2O3 in the full composition range: Fundamental difference of a- and m-epitaxial planes in the manifestation of shear strain and lattice tilt. Journal of Materials Research, 36(23), 4816–4831. https://doi.org/10.1557/s43578-021-00375-3
 
 # Additional stuff
 ## W6725
